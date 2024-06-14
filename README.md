@@ -39,6 +39,15 @@ Where:
 3. **Budget Allocation**:
     - Optimized the budget using the fitted model to maximize total sales.
     - Compared optimized allocations with actual spends.
+    - ## Budget Allocation
+
+      | Channel       | Optimized Budget |
+      |---------------|------------------|
+      | Search_Ads    | $49,889.02       |
+      | Social_Media  | $924,352.37      |
+      | TV_Ads        | $0.00            |
+      | Radio_Ads     | $18,954.22       |
+      | Billboards    | $6,804.39        |
 
 4. **Visualization**:
     - Scatter plots to explore initial correlations.
