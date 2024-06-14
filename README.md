@@ -1,4 +1,4 @@
-# Marketing Mix Modeling Optimization (MMM) Project
+# **Marketing Mix Modeling Optimization (MMM) Project**
 
 This project uses Marketing Mix Modeling (MMM) to optimize marketing budget allocation across various channels, aiming to maximize sales and understand the impact of each channel.
 
